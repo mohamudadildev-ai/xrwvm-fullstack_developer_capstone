@@ -1,0 +1,2 @@
+$ curl -s -X GET http://localhost:8000/djangoapp/dealer/15
+{"status": 200, "dealer": [{"_id": "6af877d0ca273dcf2963dcf1", "id": 15, "city": "San Antonio", "state": "Texas", "address": "5057 Pankratz Hill", "zip": "78225", "lat": "29.3875", "long": "-98.5245", "short_name": "Tempsoft", "full_name": "Tempsoft Car Dealership", "__v": 0}]}
